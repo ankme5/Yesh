@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 250" width="480" height="500">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="20" y1="10" x2="220" y2="240"><stop offset="0" stop-color="#9A6B1E"/><stop offset=".28" stop-color="#F6E3A1"/><stop offset=".5" stop-color="#B8862B"/><stop offset=".75" stop-color="#FFF4CF"/><stop offset="1" stop-color="#8C5E17"/></linearGradient></defs>
+<rect x="-20" y="-20" width="280" height="290" fill="#0B1530"/>
+<g fill="none" stroke="url(#g)"><path stroke-width="1.5" d="M52 214V112C52 68 84 38 120 18C156 38 188 68 188 112V214Z"/><path stroke-width=".7" d="M60 208V114C60 76 88 48 120 31C152 48 180 76 180 114V208Z"/><path stroke-width="1" d="M44 214H196M36 220H204"/></g>
+<g fill="url(#g)"><path d="M120 3L125 9L120 15L115 9Z"/>
+<text x="118" y="158" text-anchor="end" font-family="Cormorant Garamond,Georgia,serif" font-style="italic" font-weight="500" font-size="96">K</text>
+<text x="110" y="168" font-family="Cormorant Garamond,Georgia,serif" font-style="italic" font-weight="500" font-size="96" stroke="#0B1530" stroke-width="5" paint-order="stroke" stroke-linejoin="round">Y</text>
+<text x="120" y="200" text-anchor="middle" font-family="Cormorant Garamond,Georgia,serif" font-style="italic" font-weight="500" font-size="30">&amp;</text>
+<text x="120" y="242" text-anchor="middle" font-family="Italiana,Georgia,serif" font-size="9.5" letter-spacing="3.4">26 · 12 · 2026</text></g></svg>
